@@ -2,7 +2,7 @@
 
 Code Refactor is a repository where I refactored Horiseon's existing webpage to make it more accessible and semantic.
 
-![Code Refactor Landing Page](./assets/images/Horiseon screenshot.png)
+![Code Refactor Landing Page](./assets/images/Horiseon screenshot.PNG)
 
 Meyerwebs Reset CSS tool was used and can be found [here](http://meyerweb.com/eric/tools/css/reset/)
 
