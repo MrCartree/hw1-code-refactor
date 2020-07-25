@@ -1,4 +1,4 @@
-# Code Refactor
+# Code Refactor ![Top Language badge](https://img.shields.io/github/languages/top/MrCartree/hw1-code-refactor)
 
 Code Refactor is a repository where I refactored Horiseon's existing webpage to make it more accessible and semantic.
 
